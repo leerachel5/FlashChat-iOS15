@@ -11,6 +11,8 @@ target 'Flash Chat iOS15' do
 
   # Pods for Flash Chat iOS15
   pod 'CLTypingLabel',' ~> 0.4.0'
+  pod 'IQKeyboardManagerSwift'
+  
   pod 'FirebaseAuth'
   pod 'FirebaseFirestore'
 

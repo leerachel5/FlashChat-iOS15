@@ -1,0 +1,9 @@
+# Xcode
+.DS_Store
+xcuserdata/
+*.xcuserstate
+
+# Pods
+Pods/
+Pods.debug/xcconfig
+Pods.release.xcconfig
